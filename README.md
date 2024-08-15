@@ -1,3 +1,3 @@
-This is a fork of the main [catacomb-xyz/kjv-psalms-lxx](https://github.com/catacomb-xyz/kjv-psalms-lxx) project. It is the text used for the (forthcoming) *Pray the Psalter* app on Android and iOS.
+This is a fork of the main [catacomb-xyz/kjv-psalms-lxx](https://github.com/catacomb-xyz/kjv-psalms-lxx) project. It is the text used for my *Pray the Psalter* app on [Android](https://play.google.com/store/apps/details?id=software.vdub.psalter) and [iOS](https://apps.apple.com/app/pray-the-psalter/id6499063662).
 
 All corrections and suggestions are sent back to the mothership as [pull requests](https://github.com/catacomb-xyz/kjv-psalms-lxx/pulls) and [issues](https://github.com/catacomb-xyz/kjv-psalms-lxx/issues) but I may merge them into my main branch before they are officially accepted or resolved.
